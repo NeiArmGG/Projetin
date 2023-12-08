@@ -1,0 +1,10 @@
+git init    -  inicia o git no seus arquivos
+git clone https://www.com.br - conecta a um repositorio do github
+git add <nomedoarquivo> - adiciona 1 arquivo ao seu indice
+git add .
+git add -A ou --all      - adiciona tudo aou seu indice
+git add -u ou --update   - adiciona só oq mudou
+git commit -m "texto do commit" - da um nome ao seu commit do indice
+git push   - envia o indice para o HEAD (site do  GitHub)
+git pull   - recebe tudo do HEAD
+
